@@ -19,7 +19,7 @@ I did some research about co-working spaces in San Francisco and get some ideas 
 
 These are the hand-drawn sketches used for the initial design of the project.
 
-![initial sketches](img/mobile-sketch.jpg)
+![initial sketches](img/homepage.jpg)
 
 
 #### Desktop Version
