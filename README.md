@@ -1,4 +1,6 @@
 ## Project Title
+ PDX-Work
+
  Co-working Website
 
 #### Names of Author(s)
@@ -14,22 +16,17 @@ I did some research about co-working spaces in San Francisco and get some ideas 
 
 ![font and color scheme](img/colors-fonts.png)
 
-
 ### Images
 
 These are the hand-drawn sketches used for the initial design of the project.
 
-![initial sketches](img/homepage.jpg)
-
 
 #### Desktop Version
-![desktop landing page](i)
-![desktop menu view]()
-
+Desktop designs are in progress.
 
 #### Mobile Version
-![mobile tracks page](img/amenities.jpg)
-![mobile lesson view]()
+![initial sketches](img/Homepage.jpg)
+
 
 
 ### Target users
@@ -62,20 +59,17 @@ These are the hand-drawn sketches used for the initial design of the project.
 
 ### Responsiveness
 
-This project was designed with a mobile-first approach. With a focus on intuitive navigation, included layouts for both desktop and mobile versions.
+There is currently a mobile phone view for this project design. There will be a phone, tablet and desktop view (supporting three breakpoints).
 
 ### Setup Instructions
 
-* Clone project from https://github.com/cjbreaux/Epicodus-Redesign.git
-* Navigate to 'Epicodus Website Redesign.sketch'
+* Clone project from https://github.com/garybm/co-working-website
 * (Mac Users) Double-click the .sketch file to open in Sketch
 
 
 ### Roadmap
 
-* Ability for students to register on the site in order to track progress.
-* Ability for teachers to update lesson content from a CMS.
-* Ensure responsiveness across all devices.
+* Add the tablet and desktop designs
 
 
 ### License
