@@ -8,8 +8,7 @@ Gary Bermudez
 
 ### Description
 
-This is a website design for a new Co-working space. My client would like to have an on-line presence that mirrors their in-person presence. The co-working space is not catering solely the tech community, my client would like to attract artists, daytraders, craftspeople, writers, counselors, more traditional business people. The space will have a luxurious, cool, and high-end feel. This co-working space is not like the conventional more "corporative" spaces in the market, but more "funky, local and fun".
-
+This is a website design for a new Co-working space. My client would like to have an on-line presence that mirrors their in-person presence. The co-working space is not catering solely the tech community, my client would like to attract artists, daytraders, craftspeople, writers, counselors, more traditional business people. The space will have a luxurious, cool, and high. This co-working space is not like the conventional more "corporative" spaces in the market, but more "funky, local and fun". 
 ### Research, Inspire, and Brainstorm
 I did some research about co-working spaces in San Francisco and get some ideas and inspirations from their websites that will help me integrate my client's request into the website. After my research I have decided to use a modern and elegant color scheme and font. The selected one unique font called "Futura". Below is an image of the color scheme and my text stules for the website.
 
@@ -42,7 +41,7 @@ These are the hand-drawn sketches used for the initial design of the project.
 * Travelers: people that needs a space for a a day or just a few hours
 * Artists
 * Craftspeople
-*
+
 
 ### Persona
 
