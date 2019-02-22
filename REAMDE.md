@@ -13,7 +13,7 @@ This is a website design for a new Co-working space. My client would like to hav
 ### Research, Inspire, and Brainstorm
 I did some research about co-working spaces in San Francisco and get some ideas and inspirations from their websites that will help me integrate my client's request into the website. After my research I have decided to use a modern and elegant color scheme and font. The selected one unique font called "Futura". Below is an image of the color scheme and my text stules for the website.
 
-![font and color scheme](img/colors-fonts.jpg)
+![font and color scheme](img/colors-fonts.png)
 
 
 ### Images
