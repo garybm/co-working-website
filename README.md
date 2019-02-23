@@ -70,6 +70,10 @@ There is currently a mobile phone view for this project design. There will be a 
 ### Roadmap
 
 * Add the tablet and desktop designs
+* Add a registration/login page
+* Add a calendar with events
+* Add the mobile view menu
+* 
 
 
 ### License
