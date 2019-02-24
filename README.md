@@ -20,6 +20,7 @@ I did some research about co-working spaces in San Francisco and get some ideas 
 
 These are the hand-drawn sketches used for the initial design of the project.
 
+![mobile sketch](img/mobile-sketch.jpg)
 
 #### Desktop Version
 Desktop designs are in progress.
@@ -73,7 +74,7 @@ There is currently a mobile phone view for this project design. There will be a 
 * Add a registration/login page
 * Add a calendar with events
 * Add the mobile view menu
-* 
+*
 
 
 ### License
