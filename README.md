@@ -12,7 +12,7 @@ Gary Bermudez
 
 This is a website design for a new Co-working space. My client would like to have an on-line presence that mirrors their in-person presence. The co-working space is not catering solely the tech community, my client would like to attract artists, daytraders, craftspeople, writers, counselors, more traditional business people. The space will have a luxurious, cool, and high. This co-working space is not like the conventional more "corporative" spaces in the market, but more "funky, local and fun".
 ### Research, Inspire, and Brainstorm
-I did some research about co-working spaces in San Francisco and get some ideas and inspirations from their websites that will help me integrate my client's request into the website. After my research I have decided to use a modern and elegant color scheme and font. The selected one unique font called "Futura". Below is an image of the color scheme and my text stules for the website.
+I did some research about co-working spaces in San Francisco and get some ideas and inspirations from their websites that will help me integrate my client's request into the website. After my research I have decided to use a modern and elegant color scheme and font. The selected one unique font called "Futura". Below is an image of the color scheme and my text styles for the website.
 
 ![font and color scheme](img/colors-fonts.png)
 
@@ -41,9 +41,25 @@ Desktop designs are in progress.
 * Craftspeople
 
 
-### Persona
+### Persona 1
 
-"I need a space where I can be efficient and creative"
+* Name: Chris "I need a space where I can be efficient and creative"
+* Profession: Writer
+* Needs: "I need a website where I can find all the information related to the memberships and where I can easily sign up"
+* Motivation: Easy to navigate and information is clear
+* Pain points: Information about memberships and costs is not always clear and it is hard to sign up over the website
+* Devices: I mostly use my laptop but if I am on the go I will use my phone
+
+
+### Persona 2
+* Name: Ana "I need to be able to find events and information about other companies that have joined the same co-working space"
+* Profession: Software Developer -Freelancer
+* Needs: I need a website where I can find information about other companies that work in the same co-working space
+* Motivation: Easy to navigate and clear information 
+* Pain points: Most of the websites I looked at don't have enough information of how to join the co-working space
+* Devices: I am an Apple user
+
+
 
 ### User Stories
 * As an user of the website I would like to see information of the included amenities: conference or meeting rooms, phone booths, kitchen, etc.
