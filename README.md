@@ -44,6 +44,7 @@ Desktop designs are in progress.
 ### Persona 1
 
 * Name: Chris "I need a space where I can be efficient and creative"
+* Age: 30
 * Profession: Writer
 * Needs: "I need a website where I can find all the information related to the memberships and where I can easily sign up"
 * Motivation: Easy to navigate and information is clear
@@ -53,9 +54,10 @@ Desktop designs are in progress.
 
 ### Persona 2
 * Name: Ana "I need to be able to find events and information about other companies that have joined the same co-working space"
+* Age: 35
 * Profession: Software Developer -Freelancer
 * Needs: I need a website where I can find information about other companies that work in the same co-working space
-* Motivation: Easy to navigate and clear information 
+* Motivation: Easy to navigate and clear information
 * Pain points: Most of the websites I looked at don't have enough information of how to join the co-working space
 * Devices: I am an Apple user
 
