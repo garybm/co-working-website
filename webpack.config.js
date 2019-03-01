@@ -10,9 +10,20 @@ module.exports = {
   },
 
   module: {
+
     rules: [
-      // configurations for loaders will go here!
+
+      {
+        test: /\.scss$/,
+        use: [
+            'style-loader',
+            'css-loader',
+            'sass-loader'
+        ]
+      }
+
     ]
+
   },
 
   plugins: [
