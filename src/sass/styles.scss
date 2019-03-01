@@ -1,8 +1,53 @@
-$font-stack: Helvetica, sans-serif;
-$primary-font-color: red;
+// $font-stack: Helvetica, sans-serif;
+// $primary-font-color: red;
+//
+// body {
+//   font: 100% $font-stack;
+//   color: $primary-font-color;
+//   background-color: pink;
+// }
 
+*{
+  margin:0;
+  padding:0;
+  // border: 1px solid black;
+  // border: 1px solid pink;
+}
 body {
-  font: 100% $font-stack;
-  color: $primary-font-color;
-  background-color: pink;
+  display: flex;
+  justify-content: center;
+
+}
+.contairner {
+  width: 1300px;
+}
+
+.desktopMenu {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  width: 100%;
+  height: 15%;
+  background-color: #D2DCE1;
+  ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  li {
+    border: 1px solid black;
+    display: inline;
+    padding-right: 20%;
+    margin-right: 20%;
+    margin-left: 10%;
+    width: 60%;
+  }
+}
+
+.heroSection {
+  display: flex;
+  height: 694px;
+  img {
+    width: 100vw;
+  }
 }
