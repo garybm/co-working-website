@@ -78,21 +78,21 @@ These are the hand-drawn sketches used for the initial design of the project.
 
 ### Responsiveness
 
-There is currently a mobile phone view for this project design. There will be a phone, tablet and desktop view (supporting three breakpoints).
+There is currently a mobile phone view for this project design. There will be a phone, tablet and desktop view (supporting three breakpoints). I will add fluid images to the site to make sure they display correctly on each viewport.
+
 
 ### Setup Instructions
 
 * Clone project from https://github.com/garybm/co-working-website
-* (Mac Users) Double-click the .sketch file to open in Sketch
+* (Mac Users) Double-click the .sketch file to open in Sketch to view the wireframes
+
 
 
 ### Roadmap
 
-* Add the tablet and desktop designs
+* Complete the wireframes for desktop and add additional features across the site
 * Add a registration/login page
 * Add a calendar with events
-* Add the mobile view menu
-*
 
 
 ### License
