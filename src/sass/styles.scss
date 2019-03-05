@@ -2,6 +2,7 @@
 *{
   margin:0;
   padding:0;
+  text-decoration: none;
 }
 
 @font-face {
@@ -27,7 +28,7 @@ body {
   flex-direction: row;
   justify-content: flex-start;
   width: 100%;
-  height: 15%;
+  height: 75px;
   background-color: #D2DCE1;
   ul {
     display: flex;
@@ -38,19 +39,62 @@ body {
     // border: 1px solid black;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
+
     font-size: 20px;
     display: inline;
-    padding-right: 20%;
     margin-right: 20%;
     margin-left: 10%;
-    width: 60%;
+    a {
+      color: black;
+    }
+    a:hover {
+      color: white;
+    }
   }
 }
 
 .heroSection {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../assets/images/hero.png");
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  width: 75%;
+  height: 50%;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-size: 5vw;
+  background-color: transparentize(white,0.5);
+}
+
+.ammenities {
   display: flex;
-  height: 694px;
+  flex-direction: column;
+  align-items: center;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../assets/images/pattern.png");
+  height: 700px;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+.ammenity-one{
+  width: 75%;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  padding: 2%;
+  background-color: transparentize(white,0.5);
   img {
-    width: 100vw;
+    // width: 10%;
+    // height: 10%;
   }
 }
